@@ -1,4 +1,4 @@
-# Midjourney Serüveni
+# Midjourney Serüvenim
 
 
 Merhabalar,
