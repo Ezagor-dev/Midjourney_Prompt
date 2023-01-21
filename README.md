@@ -19,7 +19,7 @@ Bunu kendi yaptığım görseller arasındaki farktan da kolayca görebilirsiniz
 ![0 5x_Ezagor_banner_wallpaper_black_white_pixel_binary_codes_anonymou_a0520351-ff8c-4732-b343-0a7aed5420f7 1](https://user-images.githubusercontent.com/45847677/213867366-9ce80264-0355-4fd0-b109-30110b766b67.png)
 
 
-Piyasadaki neredeyse tüm yapay zekalı toolları araştırdım ve deneyimledim. Ama içlerinde bir tanesi vardı ki beni tamamen büyüledi.. Midjourney.. 
+Piyasadaki neredeyse tüm yapay zekalı toolları araştırdım ve deneyimledim. Ama içlerinde bir tanesi vardı ki beni tamamen büyüledi.. [Midjourney](https://discord.gg/midjourney).. 
 
 Yapay zekayı nasıl eğitirseniz o kadar güzel çıktılar alabiliyorsunuz. Çıktılar belirli bir noktadan sonra o kadar kusursuza yakın oluyor ki kendinizle gurur duymanızın yanında, bu görseli kusursuz hale getiren yapay zekadan çekinmeye, ürkmeye ve hayranlık duymaya başlıyorsunuz.. 
 
