@@ -86,7 +86,7 @@ Nasıl bir serüven yaşadıysam sizlere de bir benzerini yaşatmak istiyorum o 
 ![image](https://user-images.githubusercontent.com/45847677/213867709-90f9034b-d402-488d-a97b-d24262595754.png)
 
 * ezagor futuristic, hyper-realistic, detailed, cinematic
-
+```
 /imagine prompt:ezagor futuristic, hyper-realistic, detailed, cinematic
 ```
 ![image](https://user-images.githubusercontent.com/45847677/213867760-1326c16a-6e89-43d4-a10e-8105113202b8.png)
