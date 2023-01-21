@@ -1,4 +1,4 @@
-# AI_Art_Prompt
+# Midjourney Serüveni
 
 
 Merhabalar,
