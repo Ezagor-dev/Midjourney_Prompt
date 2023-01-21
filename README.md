@@ -1013,24 +1013,6 @@ hourglass, yellow and dark blue, 8k, full hd
 
 
 ```
-hourglass, yellow and dark blue, 8k, full hd --u4
-```
-
-
-
-```
-text
-```
-
-```
-text
-```
-
-
-
-
-
-```
 I Ching, full hd, 8k, hexagram, triagram, energy, fortune
 ```
 ![image](https://user-images.githubusercontent.com/45847677/213869900-561280d5-6374-4c39-9d45-bb6f9406f723.png)
